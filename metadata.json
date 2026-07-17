@@ -1,0 +1,6 @@
+{
+  "name": "PRO Yuvi Landing Page",
+  "description": "Safe, secure, fast-loading, and professional light-themed landing page designed to drive Meta ad traffic to the PRO Yuvi Telegram channel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
