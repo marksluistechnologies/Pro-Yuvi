@@ -33,7 +33,7 @@ interface ProfileAvatarProps {
 }
 
 function ProfileAvatar({ className = "", size = "md", alt = "PRO Yuvi", border = true }: ProfileAvatarProps) {
-  const [src, setSrc] = useState<string>("/profile_avatar.png");
+  const [src, setSrc] = useState<string>("/profile.png");
   const [failed, setFailed] = useState<boolean>(false);
 
   const handleError = () => {
